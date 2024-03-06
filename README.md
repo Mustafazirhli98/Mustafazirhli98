@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working as **React/React Native Developer**
 
 - 📫 How to reach me **mustafazirhli98@gmail.com**
 
